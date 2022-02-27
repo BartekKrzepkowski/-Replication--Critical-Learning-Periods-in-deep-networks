@@ -1,0 +1,2 @@
+,log loss,accuracy,val_log loss,val_accuracy,step,gamma,lr,weight_decay,batch_size
+0,0.3335,0.8867,0.6341,0.7913,140,0.97,0.05,0.001,128
